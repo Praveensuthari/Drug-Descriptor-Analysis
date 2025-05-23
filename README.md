@@ -75,13 +75,3 @@ To analyze and visualize drug molecular descriptor data derived from RDKit to ex
 
 **Praveen Suthari**  
 _Fresher Data Analyst | Python | SQL | Power BI | Excel_
-
----
-
-## 📎 For Resume or Portfolio
-
-🔗 GitHub Repo: `https://github.com/yourusername/drug-descriptor-analysis`  
-(Replace this with your actual GitHub URL)
-
----
-
