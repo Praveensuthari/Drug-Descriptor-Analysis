@@ -46,7 +46,12 @@ To analyze and visualize drug molecular descriptor data derived from RDKit to ex
   - Slicers: TPSA and MolWt filters
 
 ---
-
+## 🛠 Tools & Skills Used
+- Python (Pandas, Seaborn, Matplotlib)
+- SQL (MySQL or SQLite)
+- Power BI
+- Microsoft Excel
+- EDA, Clustering, Dashboarding
 ## 📂 Project Files
 
 | File Name                                 | Description                                      |
